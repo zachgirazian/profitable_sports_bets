@@ -1,7 +1,7 @@
 # profitable_sports_bets
 Scrape sports betting odds to find profitable bets
 
-This program scrapes Draftkings same game parlay odds (dynamic content), compares them to odds from other sportsbooks, and finds profitable bets.
+This program scrapes Draftkings same game parlay odds (dynamic content), compares them to odds from other sportsbooks, then finds profitable bets.
 
 It also allows for analysis to determine key features of each sportsbook that are important for profitability. 
 
