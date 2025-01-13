@@ -3,7 +3,7 @@ Scrape sports betting odds to find profitable bets
 
 This program scrapes Draftkings same game parlay odds (dynamic content), compares them to odds from other sportsbooks, then finds profitable bets.
 
-It also allows for analysis to determine key features of each sportsbook that are important for profitability. 
+In additiona to finding profitable bets, the collectionf of odds data enables analysis to determine key features of each sportsbook.
 
 For example, the figure below shows that Draftking sportsbook has higher fees than most other sportsbooks. At Draftkings, the fee for placing is much higher than the fee at 15 other sprtsbooks. Consequently, one should avoid Draftkings to maximize profits.
 
